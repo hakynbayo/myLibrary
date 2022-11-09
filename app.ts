@@ -49,7 +49,7 @@ app.use('/users', usersRouter);
 app.get("/", async (req: Request, res: Response) => {
   try {
     res.sendFile(
-      "/Users/decagon/Downloads/week-6-node-practice-2/views/HomePage.html"
+      "/Users/decagon/Downloads/my-library/views/HomePage.html"
     );
   } catch (error) {
     res.status(400),
@@ -61,7 +61,7 @@ app.get("/", async (req: Request, res: Response) => {
 app.get("/login", async (req: Request, res: Response) => {
   try {
     res.sendFile(
-"/Users/decagon/Downloads/week-6-node-practice-2/views/login.html"
+"/Users/decagon/Downloads/my-library/views/login.html"
     );
   } catch (error) {
     res.status(400),
@@ -80,7 +80,7 @@ app.get("/dashboard/:mail", async (req: Request, res: Response) => {
     const user = authorArr.find((user) => user.email === Email)!;
     var details = user.books;
     res.sendFile(
-      "/Users/decagon/Downloads/week-6-node-practice-2/views/dashboard.html"
+      "/Users/decagon/Downloads/my-library/views/dashboard.html"
     );
   } catch (error) {
     res.status(404).send("error");
@@ -119,7 +119,7 @@ app.post("/login", async (req: Request, res: Response) => {
 
 app.get("/newBookForm", async(req,res)=>{
   try{
-    res.sendFile("/Users/decagon/Downloads/week-6-node-practice-2/views/newBookForm.html")
+    res.sendFile("/Users/decagon/Downloads/my-library/views/newBookForm.html")
   }catch(error){
     res.send(error)
   }
