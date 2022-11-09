@@ -1,7 +1,11 @@
 FROM node:alpine
 
-COPY . /app
-
 WORKDIR /app
 
-CMD [ "node", "/lib/app.js" ]
+COPY . .
+
+RUN yarn
+
+RUN npx tsc
+
+CMD ["node", "./lib/app"] 
