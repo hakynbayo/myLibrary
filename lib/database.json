@@ -1,0 +1,110 @@
+[
+   {
+      "id": 1,
+      "author": "Olaitan Olanrew",
+      "dateRegistered": "2022-11-05T22:34:16.175Z",
+      "age": "22",
+      "email": "holaitan4@gmail.com",
+      "password": "$2b$10$jpSIjjaD/qh9ztg6C8IUFe6Azq1VsLsQmCR1NLH3Cdpbw98SwLPIK",
+      "address": "Plot 13, Vanni Estate Ojodu-Berger.",
+      "books": [
+         {
+            "id": 1,
+            "name": "",
+            "isPublished": false,
+            "datePublished": "2022-11-05T22:34:16.175Z",
+            "serialNumber": 0
+         }
+      ]
+   },
+   {
+      "id": 1,
+      "author": "Akinbayo Akinwa",
+      "dateRegistered": "2022-11-06T21:31:19.439Z",
+      "age": "22",
+      "email": "holaitan4@gmail.com",
+      "password": "$2b$10$87w1BElDE9oDdMQljyIpGuSvyX2xnezTXezrTAlo6uEHBHQd.wd6i",
+      "address": "Plot 13, Vanni Estate Ojodu-Berger.",
+      "books": [
+         {
+            "id": 1,
+            "name": "",
+            "isPublished": false,
+            "datePublished": "2022-11-06T21:31:19.439Z",
+            "serialNumber": 0
+         }
+      ]
+   },
+   {
+      "id": 1,
+      "author": "Olaitan Olanrew",
+      "dateRegistered": "2022-11-07T00:00:23.522Z",
+      "age": "22",
+      "email": "holaitan4@gmail.com",
+      "password": "$2b$10$7Q/6XQPtYgw.VGUBAfbEPOrxVJn0N5zr6O3fdVcVBGSAzaKBv.WHm",
+      "address": "Plot 13, Vanni Estate Ojodu-Berger.",
+      "books": [
+         {
+            "id": 1,
+            "name": "",
+            "isPublished": false,
+            "datePublished": "2022-11-07T00:00:23.522Z",
+            "serialNumber": 0
+         }
+      ]
+   },
+   {
+      "id": 1,
+      "author": "pelumi Joy",
+      "dateRegistered": "2022-11-07T00:10:13.931Z",
+      "age": "21",
+      "email": "faslusky@gmail.com",
+      "password": "$2b$10$NPVPNna0Y7/IWQS1J82GFOOerek3CGIJlB.2E8KLT2RkWlfLPabpS",
+      "address": "decagon",
+      "books": [
+         {
+            "id": 1,
+            "name": "",
+            "isPublished": false,
+            "datePublished": "2022-11-07T00:10:13.931Z",
+            "serialNumber": 0
+         }
+      ]
+   },
+   {
+      "id": 1,
+      "author": "Akinbayo Akinwa",
+      "dateRegistered": "2022-11-08T19:03:27.197Z",
+      "age": "21",
+      "email": "akinbayo256@gmail.com",
+      "password": "$2b$10$NBZyui0kUGihtAWEO/dAPu.uMtNO7Przq64oR4vidA9TTMY6/mjvm",
+      "address": "21 Reverend Okunlola street, gasline Ijoko Sango-otta, Ogun state, Nigeria",
+      "books": [
+         {
+            "id": 1,
+            "name": "",
+            "isPublished": false,
+            "datePublished": "2022-11-08T19:03:27.197Z",
+            "serialNumber": 0
+         }
+      ]
+   },
+   {
+      "id": 1,
+      "author": "Akinbayo Akinwa",
+      "dateRegistered": "2022-11-09T00:39:06.345Z",
+      "age": "21",
+      "email": "akinbayo256@gmail.com",
+      "password": "$2b$10$6anB5O80Oj0r6mtqGltGauoDbvhVZfHE2ZE/6vfg5BBPs2tXAPUVe",
+      "address": "21 Reverend Okunlola street, gasline Ijoko Sango-otta, Ogun state, Nigeria",
+      "books": [
+         {
+            "id": 1,
+            "name": "",
+            "isPublished": false,
+            "datePublished": "2022-11-09T00:39:06.345Z",
+            "serialNumber": 0
+         }
+      ]
+   }
+]
